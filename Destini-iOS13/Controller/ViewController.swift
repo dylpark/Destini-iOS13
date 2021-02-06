@@ -25,6 +25,10 @@ class ViewController: UIViewController {
         storyLabel.text = story0
 
     }
+    
+    @IBAction func btnTitle(_ sender: UIButton) {
+        
+    }
 
 
 }
