@@ -26,7 +26,7 @@ class ViewController: UIViewController {
 
     }
     
-    @IBAction func btnTitle(_ sender: UIButton) {
+    @IBAction func btnChoice(_ sender: UIButton) {
         
     }
 
